@@ -1,0 +1,16 @@
+{
+    "name": "Tityx.BehaviourTree.Demo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0cacbe77fbbc0114d864f00574b705ae"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
